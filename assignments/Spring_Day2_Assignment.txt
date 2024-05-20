@@ -1,0 +1,30 @@
+User Story 101
+======================
+
+Requirements : 
+Task 1. As a user I should be able to get a random challange of any of these operations
+	-Addition
+	-Substraction
+	-Multiplication
+	-Division
+	
+Task 2. As a user I should be able to get a random challenge of given operation
+
+	/random/operation/{operationType}
+
+Task 3. As a user I should be able to validate an attempt of given challenge
+
+Acceptance Criteria :
+
+1. All new code changes should have supporting UT changes as well.
+2. No exisiting UT should be in failed condition.
+
+
+//
+Master
+
+feature/S101
+
+Pull Request 
+Code Review
+Merge
